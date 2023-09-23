@@ -1,7 +1,7 @@
 # DRF.
 
-**python manage.py shell**\ 
-**python manage.py runserver**\
+**python manage.py shell**  
+**python manage.py runserver**  
 
 Cписок всех продуктов\
 http://127.0.0.1:8000/api/v1/training/products/

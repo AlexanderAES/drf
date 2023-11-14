@@ -1,4 +1,4 @@
-# DRF.
+# Django Rest Framework. Test task
 
 **python manage.py shell**  
 **python manage.py runserver**  
